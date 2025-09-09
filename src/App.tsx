@@ -12,6 +12,7 @@ function App() {
       < Goodbye name={"John"}/>
       <AgeInfo age = {23} name={"Fred"}/>
       <AgeInfo age = {44} name={"Katja"}/>
+      <p>Live</p>
       
     </div>
   )
