@@ -1,0 +1,17 @@
+.container {
+    background-color: lightgreen;
+    border-radius: 10px;
+    border-color: rgb(17, 233, 81);
+    box-shadow: 0 12px 24px rgb(128, 126, 126);
+}
+
+.name {
+    font-weight: bold;
+    color: black;
+}
+
+.container p{
+    color: black;
+    padding: 10px;
+    font-weight: bold;
+}
