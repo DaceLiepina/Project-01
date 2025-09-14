@@ -16,9 +16,7 @@ export default function Counter() {
   // - что возвращает? Создает стейт, изменения которго вызывают ререндер
 
   // poga +1
-  function printCounter() {
-    console.log(counter);
-  }
+  
   // poga -2
   // prev - ieperiekseja noziime
   function handleAddOne() {
